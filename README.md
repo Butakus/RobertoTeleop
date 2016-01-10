@@ -6,7 +6,7 @@ Here you can find a module for the RaspberryPi that allows Roberto to be teleope
 
 The communication with the master is set via Wifi.
 
-The communication with the driver (https://bitbucket.org/Butakus/robertodriver) is set via Serial port.
+The communication with the driver (https://github.com/Butakus/RobertoDriver) is set via Serial port.
 
 ## Author
 Francisco Miguel Moreno
